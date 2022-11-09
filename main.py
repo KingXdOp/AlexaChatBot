@@ -57,10 +57,10 @@ async def start(client, message):
 mere babu ne thana thaya kya?? ...
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴏᴡɴᴇʀ   [𝗦𝗨𝗠𝗜𝗧](https://t.me/Kya_rakhu_smjh_nhi_aa_rha)
+┣★ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 » [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬𝐁𝐨𝐲](https://t.me/AnonymousBoyxD)
 ┣★ ᴜᴘᴅᴀᴛᴇs [𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://t.me/ab_sumit)
-┣★ sᴜᴘᴘᴏʀᴛ [𝗚𝗥𝗢𝗨𝗣](https://t.me/bellysupportchat)
-┣★ sᴏᴜʀᴄᴇ  [R𝗥𝗘𝗣𝗢](https://github.com/isu-op-op/CHATBOT)
+┣★ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 [𝐁𝐨𝐭𝐡𝐮𝐛𝐱'𝐃](https://t.me/BothubxD)
+┣★ sᴏᴜʀᴄᴇ  [𝐑𝐞𝐩𝐨](https://te.legra.ph/file/c2f013fe02b88787f68a8.mp4)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
 
