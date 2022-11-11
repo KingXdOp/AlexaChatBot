@@ -40,8 +40,8 @@ async def start(client, message):
     if message.chat.type != "private":
         buttons = [
                   [
-                   InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/ab_sumit"),
-                   InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/bellysupportchat"),
+                   InlineKeyboardButton("𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url="https://t.me/BothubxD"),
+                   InlineKeyboardButton("𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/Crush_World_xD"),
                   ]       
                   ]
         await message.reply("ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴇʀsᴏɴᴀʟ",
@@ -49,7 +49,7 @@ async def start(client, message):
         
     else:
         buttons = [[
-            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/bellyxrobot?startgroup=true")
+            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/  5415450991:Alexa_Chat_Bot?startgroup=true")
         ]
         ]
         video = "https://te.legra.ph/file/05916beb5a619d7be9a77.mp4"
@@ -58,9 +58,7 @@ mere babu ne thana thaya kya?? ...
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 » [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬𝐁𝐨𝐲](https://t.me/AnonymousBoyxD)
-┣★ ᴜᴘᴅᴀᴛᴇs [𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://t.me/ab_sumit)
-┣★ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 [𝐁𝐨𝐭𝐡𝐮𝐛𝐱'𝐃](https://t.me/BothubxD)
-┣★ sᴏᴜʀᴄᴇ  [𝐑𝐞𝐩𝐨](https://te.legra.ph/file/c2f013fe02b88787f68a8.mp4)
+┣★ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥  » [𝐁𝐨𝐭𝐡𝐮𝐛𝐱'𝐃](https://t.me/BothubxD
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
 
